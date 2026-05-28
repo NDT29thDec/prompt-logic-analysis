@@ -1,0 +1,134 @@
+## Phase 1: Select the Right Piece
+
+Use an argument piece from the past, like https://hbr.org/2014/03/why-china-cant-innovate.
+
+Specifically, use argument pieces that fail significantly compared to the present, to better make the argument faultline pronounced. There are many fathers of a success, but failure is much easier to track.
+
+Specifically, use argument pieces from intelligent people, to avoid too obvious weakness in argument (too bad quality), or idiosyncrasy in the author's thinking (little value in generalizing).
+
+---
+
+## Phase 2: Map the Argument Chain
+
+Ask LLM to map the argument chain in detail.
+
+- What is the main thesis?
+- What main arguments support that thesis?
+- What supportive arguments support each of those main arguments?
+- What is the evidence used to support the arguments — supporting main arguments directly, or supporting the supportive arguments first?
+- Exactly which logic rule is used to link each piece of evidence to the specific argument it supports. Do it for all links.
+- Exactly which logic rule is used to link each argument to the higher argument/thesis in the chain. Do it for all links.
+
+---
+
+## Phase 3: Collect Present Reality Data
+
+Once the map is clear, ask LLM to collect real world data of the present, to see how much the argument fails.
+
+---
+
+## Phase 4: Locate the Failure Points
+
+More specifically and importantly, at what point does it fail?
+
+- Is it evidence that is simply not true?
+- Is the evidence true but not a good basis for generalization, and it becomes inadvertently cherry picking, an unconscious temporal sampling bias?
+- Is the logic rule used to link evidence/argument with the higher argument/thesis in the chain not appropriate, not tight enough, leaking?
+- What is the specific name of the pattern of logic failure? In other words, what is the name of the logic fallacy in specifically that linking failure? Do it for each logic linking failure.
+
+The fact that the argument fails later in reality makes it much easier to track the specific point of weakness in the argument-making process. At the very least, just tracing step by step to see from where the argument result starts to diverge with the reality evidence.
+
+---
+
+## Phase 5: Reframe — The Argument Was Not Originally Fallacious
+
+Now turn back, and think again about the mapping of the argument. The piece is good and credible in its time, with no obvious logic failure. The author is intelligent; they wouldn't commit fallacy consciously. Even if they do it unconsciously, they try to avoid it consciously, so they don't make mistakes easily.
+
+So the situation is often that the argument map is not fallacious in its original state. There is a constellation of many assumptions that the author uses, that would make the map a legitimate map. It is the failure of some of those assumptions that makes the map collapse into fallacy. Like a chair that loses one or two legs and topples over.
+
+---
+
+## Phase 6: Map the Assumption Constellation at Each Failure Point
+
+Use LLM to map the specific assumption constellation at each failure point. Each failure point has a different assumption constellation, and is worth analyzing independently.
+
+More specifically, it is the specific assumption that fails that makes the fallacy take that specific form. Like the specific leg failing makes the chair topple in a specific direction rather than randomly. If the assumption that failed were a different one, the fallacy would be different — like the chair would topple in another direction.
+
+Then use counterfactual: if the assumption that failed is a different one, what fallacy does the linking logic become now?
+
+---
+
+## Phase 7: Distinguish Core vs. Local Assumptions
+
+Even if each failure point has a constellation of assumptions, many assumptions appear in many places, and some are more important, more "core" to the structure. A "local" assumption failure may have limited, contained failure. A more "core/structural" assumption that fails has wider effect — the failure often cascades and is much harder to contain within a single point or chain.
+
+---
+
+## Phase 8: Examine the Partial Failures of Non-Failing Assumptions
+
+For each failure point in linking logic, even the assumptions that "did not fail" — and so the fallacy did not take their characteristic form — even those may actually have failed, just failed less than the main failure, so the fallacy did not take the form characteristic to their failure.
+
+Think more carefully about how the situation makes the specific main assumption failure pronounced, so the main fallacy takes that form instead of another form.
+
+---
+
+## Phase 9: Check for Two Special Structural Patterns
+
+**Static world modeled in a dynamic/game-theoretic process.**
+One pattern of argument failure is modeling a static world while the process is actually dynamic and game-theoretic. If the argument structure is static, additional attention should be paid to see if the static assumption is valid enough. Often, it is not good enough.
+
+**Hard to falsify.**
+Another pattern of arguing — not specifically a failure — is being hard to falsify. Although it is not a lethal, argument-killing point, attention should still be paid to it. What would falsify this argument, and when? If the horizon for falsification is too long — longer than the useful window in the context of the argument-making (a week-month scale debate but evidence needing a decade to even make and collect) — then it is quite hard to be confident, as there is no way to provide direct proof of passing the falsification test; it can only rely on the internal strength of the argument map.
+
+---
+
+## Phase 10: Add the Temporal Dimension
+
+The argument piece and map exist in time. Some assumptions are simply in a pre-conceptual stage — not yet articulable, just not epistemically available to the author at the time. Many times, these assumptions point to the existence of a frontier of the field's knowledge, where the field gradually even starts to articulate its unconscious thinking and assumptions.
+
+The specific strongest assumption failure, in comparison to other lighter failures, may also have a time dimension: some historical sequence of events makes it fail first, activates it first. In other words, if history had been idiosyncratically different, maybe the main assumption failure — and its corresponding fallacy form — would be different.
+
+---
+
+## Phase 11: Synthesize Across Multiple Pieces for Domain-Level Blind Spots
+
+If multiple pieces in the field fail for similar points, fail on similar assumptions, then maybe those assumptions are domain-level blind spots. If so, we should take mental note to consciously check them when reading or analyzing any piece in the domain.
+
+
+Original writing:
+
+Use a argument piece from the past, like https://hbr.org/2014/03/why-china-cant-innovate. 
+Specifically, use argument piece that fail significantly compare to the present to better make the argument faultline pronounced. There's many father of a success, but failure is much easier to track.
+Specifically, use argument piece from intelligent people, to avoid too obvious weakness in argument (too bad quality), or idiosyncrasy in the author thinking (few value in generalize). 
+Ask LLM to map the argument chain in detail.
+- What is the main thesis?
+- What main arguments support that thesis?
+- What supportive arguments support each of those main argument?
+- What is the evidence used to support the arguments (support main argument directly, or support supportive argument first)
+- Exactly which logic rule is used to link each of the evidence piece to the specific argument they support. Do it for all link
+- Exactly which logic rule is used to link each of the argument to the higher argument/thesis in the argument chain. Do it for all link.
+
+Once the map is clear, ask LLM to collect real world data of the present, to see how much the argument fail.
+More specifically and importantly, at what point does it fail?
+- Is it evidence that's simple not true 
+- Is the evidence is true but not a good point for generalize, and it become inadvertently cherry picking, a unconscious temporal sampling bias
+- Logic rule used to link evidence/argument with the higher argument/thesis in the chain, that's not appropriate/not tight enough/leaking...
+- What is the specific name of the pattern of logic failure. In other word, what is the name of the logic fallacy in specifically that linking failure. Do it for each logic linking failure
+The fact that the argument fail later in reality make it much more easier to track the specific point of weakness in the argument making process. At the very least, just tracing step by step to see from where does the argument result start to diverge with the reality evidence.
+
+Now turn back, and thinking again about the mapping of the argument. The piece is good and credible in its time, with no obvious logic failure.  The author is intelligent, they wouldn't commit fallacy consciously. Even if they do it unconsciously, they try to avoid it consciously, so they don't make mistake easily. 
+So the situation is often that the argument map is not fallacious in the original state. There's a constellation of many assumption that the author use, that would make the map a legit map. It is the failure of some of the assumption that make the map fail to fallacy. Like a chair that lose one - two legs and toppled over. More specifically, it is the specific assumption that fail that make the fallacies take that specific form. Like the specific leg fail make the chair toppled in specific direction instead of randomly. If the assumption that fail were different, the fallacy would be different, like the chair would toppled in other direction.
+So use LLM to mapping the specific assumption constellation in each failure point (each failure point have a different assumption constellation, and worth analyze independently). Then use counterfactual: if the assumption that fail is another one, what fallacy the linking logic become, now?
+
+Another point. Even if each failure point have a constellation of assumptions, many assumption happen in many place, some are more important, more "core" to the structure. A "local" assumption fail may have limited/contained failure, a more "core/structure" assumption that fail have wider effect, the failure often cascades and much harder to contained in a point/chain.
+
+Go another level. For each failure point in linking logic, even the assumptions that "not fail" and the fallacy not taken their form, even them may actually does fail, just fail less than the main failure, so the fallacy doesn't take the form characteristic to that assumption failure. Thinking more on how the we/the situation make the specific main assumption failure pronounced, so the main fallacy become that form instead of this form.
+
+One pattern of argument fail is modeling a static world, while the process is actually dynamic/game theoretic. If the argument structure is static, addition attention should be paid to see if the static assumption is valid enough. Often, it is not good enough.
+Another pattern of arguing (not specifically failure) is hard to falsify. Although it is not a lethal, argument killing point, there should also be attention to it. What would falsify this argument, and when. If the horizon for falsification is too long, longer than the useful window in the context of the argument making (a week-month scale debate but evident need decade to even making and collecting), then it is quite hard to be confident, as it have no way to provide the direct proof of passing the falsification test, can just rely on internal strength of the argument map.
+
+Go to temporal direction. The argument piece/map exist in time. Some assumptions are simple in pre-conceptual stage, not yet articulable, just not epistemically available to the author at the time. Many time, these assumptions point to the existence of frontier of the field's knowledge, where the field gradually even start to articulate their unconscious thinking and assumption.
+
+The specific strongest assumption failure, in comparison to other lighter failure, may also have time dimension: some historical sequence of events make it fail first, active it first. In other word, if the idiosyncrasy history is different, maybe the main assumption failure (and its correspondent fallacy form) is different.
+
+A new point for further development: if multiple piece in the field fail for similar point, fail in similar assumptions, then maybe those assumptions are domain level blind spots. If so, we should take mental note to consciously check them when reading/analyzing any piece in the domain. 
